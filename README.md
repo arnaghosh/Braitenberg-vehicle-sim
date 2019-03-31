@@ -1,6 +1,11 @@
 # Braitenberg-vehicle-sim
 Basic simulations of braitenberg vehicles
 
+------------------------
+## Requirements
+* Python 3.5+
+* Opencv 4.0.0
+
 -----------------------
 To do :-
 + [X] Create a Field class to generate a force fieldin 2D space from a given set of sources and order of decay

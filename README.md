@@ -13,3 +13,7 @@ To do :-
 + [X] Create Vehicle type 1 simulation
 + [ ] Create Vehicle type 2 simulations, just one source
 + [ ] Create Vehicle type 3 simulations, just one source
+
+
+## Some advanced resources for better simulation platforms
++ [Closed Loop Interactions between Spiking Neural Network and Robotic Simulators Based on MUSIC and ROS](https://www.frontiersin.org/articles/10.3389/fninf.2016.00031/full)
